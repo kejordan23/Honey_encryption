@@ -26,5 +26,17 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/smu-cs-3353/21s-pa02-kylie-jordan.git
+   git clone https://github.com/kejordan23/Honey_encryption.git
    ```
+
+<!-- BUILD AND RUN -->
+## Run
+
+Once you run the program, you will be prompted to enter a password and a message. This password will then be 
+altered and encrypted 5 times. The cosole will then prompt you to enter a password to crack and either give you 
+the original message or a fake message.
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License.
